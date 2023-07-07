@@ -1,0 +1,11 @@
+line_length:
+    warning: 140
+    error: 200
+    ignores_comments: true
+    ignores_urls: true
+    ignores_function_declarations: true
+    ignores_interpolated_strings: true
+
+disabled_rules:
+    - blanket_disable_command
+    - nesting

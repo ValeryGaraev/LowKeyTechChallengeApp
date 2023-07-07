@@ -1,0 +1,8 @@
+input_dir: LowKeyTechChallenge/Resources/Localization
+output_dir: LowKeyTechChallenge/Resources/Generated/
+
+strings:
+   inputs: en.lproj
+   outputs:
+     - templateName: structured-swift5
+       output: Strings.swift
